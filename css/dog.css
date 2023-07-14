@@ -45,7 +45,7 @@
     margin-left: 0;
 }
 
-/* @media (max-width: 800px) {
+@media (max-width: 800px) {
     .member-list {
         padding-left: 20px;
         padding-right: 20px;
@@ -55,4 +55,4 @@
         width: 220px;
         margin-left: 30px;
     }
-} */
+}
