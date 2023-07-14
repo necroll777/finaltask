@@ -21,7 +21,7 @@
     margin-right: auto;
 } 
 
-.cat-members {
+.member-list {
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
@@ -33,7 +33,7 @@
 .member-list li {
     flex-shrink: 0;
     width: 260px;
-    margin-left: 75px;
+    margin-left: 200px;
 }
 
 .member-list li:first-child {
