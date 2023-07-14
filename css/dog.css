@@ -35,6 +35,16 @@
     height: 250px;
 }
 
+.dog2{
+    width: 280px;
+    height: 200px;
+}
+
+.dog3{
+    width: 280px;
+    height: 200px;
+}
+
 .member-list li {
     flex-shrink: 0;
     width: 260px;
