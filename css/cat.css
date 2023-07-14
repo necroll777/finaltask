@@ -1,4 +1,4 @@
-/* .members {
+.members {
     background: #feefef;
     padding-top: 45px;
     padding-bottom: 55px;
@@ -19,18 +19,18 @@
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-} */
+} 
 
-/* .member-list {
+.member-list {
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 60px;
     padding-right: 60px;
     overflow: scroll;
-} */
+}
 
-/* .member-list li {
+.member-list li {
     flex-shrink: 0;
     width: 260px;
     margin-left: 75px;
@@ -38,9 +38,9 @@
 
 .member-list li:first-child {
     margin-left: 0;
-} */
+}
 
-/* @media (max-width: 800px) {
+@media (max-width: 800px) {
     .member-list {
         padding-left: 20px;
         padding-right: 20px;
@@ -50,4 +50,4 @@
         width: 220px;
         margin-left: 30px;
     }
-} */
+}
