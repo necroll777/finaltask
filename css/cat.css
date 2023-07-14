@@ -1,8 +1,8 @@
-.members {
-    background: #f8f8f8;
+/* .members {
+    background: #feefef;
     padding-top: 45px;
     padding-bottom: 55px;
-}
+} */
 
 .members h2 {
     font-size: 22px;
@@ -15,7 +15,7 @@
     display: block;
     width: 36px;
     height: 3px;
-    background-color: #000000;
+    background-color: #d71515;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
