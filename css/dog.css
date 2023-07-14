@@ -30,6 +30,11 @@
     overflow: scroll;
 }
 
+.member-list img{
+    width: 10px;
+    height: 20px;
+}
+
 .member-list li {
     flex-shrink: 0;
     width: 260px;
