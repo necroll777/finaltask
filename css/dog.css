@@ -35,6 +35,11 @@
     height: 250px;
 }
 
+.member-list img2{
+    width: 100px;
+    height: 150;
+}
+
 .member-list li {
     flex-shrink: 0;
     width: 260px;
