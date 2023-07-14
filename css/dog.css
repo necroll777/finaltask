@@ -30,14 +30,9 @@
     overflow: scroll;
 }
 
-.member-list img{
+.dog1{
     width: 200px;
     height: 250px;
-}
-
-.member-list img2{
-    width: 100px;
-    height: 150;
 }
 
 .member-list li {
