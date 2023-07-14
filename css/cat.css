@@ -1,8 +1,8 @@
-/* .members {
+.members {
     background: #feefef;
     padding-top: 45px;
     padding-bottom: 55px;
-} */
+}
 
 .members h2 {
     font-size: 22px;
@@ -19,7 +19,7 @@
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-}
+} 
 
 .member-list {
     display: flex;
