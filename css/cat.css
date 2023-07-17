@@ -1,7 +1,9 @@
 .members {
-    background: #feefef;
+    background: #f8f8f8;
     padding-top: 45px;
     padding-bottom: 55px;
+    display: flex;
+    flex-direction: column;
 }
 
 .members h2 {
@@ -19,7 +21,7 @@
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-} 
+}
 
 .member-list {
     display: flex;
@@ -28,6 +30,21 @@
     padding-left: 60px;
     padding-right: 60px;
     overflow: scroll;
+}
+
+.dog1{
+    width: 200px;
+    height: 250px;
+}
+
+.dog2{
+    width: 280px;
+    height: 200px;
+}
+
+.dog3{
+    width: 280px;
+    height: 200px;
 }
 
 .member-list li {
