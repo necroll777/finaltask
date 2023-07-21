@@ -32,16 +32,19 @@ nav.floating {
     font-family: 'Montserrat', sans-serif;
     font-size: 56px;
     line-height: 72px;
+    text-align: center;
 }
 
 .first-view-text p {
     font-size: 18px;
     margin-top: 20px;
+    text-align: center;
 }
 
 .lead {
     max-width: 1200px;
     margin: 60px auto;
+    text-align: center;
 }
 *,
 ::before,
