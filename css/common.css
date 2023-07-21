@@ -153,6 +153,7 @@ img {
 .footer-logo {
     display: block;
     width: 235px;margin-top: 90px;
+    height: 150px;
 }
 
 .copyright {
