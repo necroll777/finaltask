@@ -63,8 +63,14 @@
         padding-right: 20px;
     }
 
-    .member-list li {
-        width: 220px;
+    .dog1 {
+        width: 150px;
+        height: 150px;
         margin-left: 30px;
+    }
+
+    .member-list dd {
+        width: 170px;
+        height: 170px;
     }
 }
