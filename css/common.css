@@ -29,6 +29,11 @@ img {
     max-width: 100%;
 }
 
+.ロゴ {
+    width: 100px;
+    height: 50px;
+}
+
 .header-inner {
     max-width: 1200px;
     height: 110px;
