@@ -29,6 +29,7 @@ img {
     max-width: 100%;
 }
 
+
 .header-inner {
     max-width: 1200px;
     height: 110px;
@@ -48,6 +49,7 @@ img {
 .header-logo {
     display: block;
     width: 170px;
+    height: 135px;
 }
 
 .site-menu ul {
@@ -151,6 +153,7 @@ img {
 .footer-logo {
     display: block;
     width: 235px;margin-top: 90px;
+    height: 150px;
 }
 
 .copyright {
