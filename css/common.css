@@ -95,6 +95,7 @@ img {
 
     .header-logo {
         width: 100px;
+        height: 95px;
     }
 
     .header-site-menu {
@@ -129,7 +130,7 @@ img {
         display: block;
         width: 44px;
         height: 34px;
-        background-image: url(../images/common/icon-menu.png);
+        background-image: url(../images/icon-menu.png);
         background-size: 50px;
         background-position: center;
         background-repeat: no-repeat;
